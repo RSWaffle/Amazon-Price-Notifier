@@ -1,0 +1,15 @@
+C:\Users\ryant\Documents\Github\Amazon-Price-Notifier\Amazon Price Notifier\bin\Debug\Amazon Price Notifier.exe.config
+C:\Users\ryant\Documents\Github\Amazon-Price-Notifier\Amazon Price Notifier\bin\Debug\Amazon Price Notifier.exe
+C:\Users\ryant\Documents\Github\Amazon-Price-Notifier\Amazon Price Notifier\bin\Debug\Amazon Price Notifier.pdb
+C:\Users\ryant\Documents\Github\Amazon-Price-Notifier\Amazon Price Notifier\obj\Debug\Amazon Price Notifier.csprojAssemblyReference.cache
+C:\Users\ryant\Documents\Github\Amazon-Price-Notifier\Amazon Price Notifier\obj\Debug\MainWindow.g.cs
+C:\Users\ryant\Documents\Github\Amazon-Price-Notifier\Amazon Price Notifier\obj\Debug\App.g.cs
+C:\Users\ryant\Documents\Github\Amazon-Price-Notifier\Amazon Price Notifier\obj\Debug\Amazon Price Notifier_MarkupCompile.cache
+C:\Users\ryant\Documents\Github\Amazon-Price-Notifier\Amazon Price Notifier\obj\Debug\Amazon Price Notifier_MarkupCompile.lref
+C:\Users\ryant\Documents\Github\Amazon-Price-Notifier\Amazon Price Notifier\obj\Debug\MainWindow.baml
+C:\Users\ryant\Documents\Github\Amazon-Price-Notifier\Amazon Price Notifier\obj\Debug\Amazon Price Notifier.g.resources
+C:\Users\ryant\Documents\Github\Amazon-Price-Notifier\Amazon Price Notifier\obj\Debug\Amazon_Price_Notifier.Properties.Resources.resources
+C:\Users\ryant\Documents\Github\Amazon-Price-Notifier\Amazon Price Notifier\obj\Debug\Amazon Price Notifier.csproj.GenerateResource.cache
+C:\Users\ryant\Documents\Github\Amazon-Price-Notifier\Amazon Price Notifier\obj\Debug\Amazon Price Notifier.csproj.CoreCompileInputs.cache
+C:\Users\ryant\Documents\Github\Amazon-Price-Notifier\Amazon Price Notifier\obj\Debug\Amazon Price Notifier.exe
+C:\Users\ryant\Documents\Github\Amazon-Price-Notifier\Amazon Price Notifier\obj\Debug\Amazon Price Notifier.pdb
