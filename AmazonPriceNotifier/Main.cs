@@ -13,12 +13,28 @@ namespace AmazonPriceNotifier
     public partial class Main : Form
     {
         PriceNotifier notifier;
+
+        string amazonLink = "";
         public Main()
         {
-            notifier = new PriceNotifier();
             InitializeComponent();
 
-            label1.Text = notifier.price;
+        }
+
+        private void BtnPrice_Click(object sender, EventArgs e)
+        {
+           amazonLink = txtBoxLink.Text;
+           
+
+           notifier = new PriceNotifier(amazonLink);
+
+           labelTitle.Text = notifier.title;
+           labelPrice.Text = notifier.price;
+        }
+
+        private void TxtBoxLink_TextChanged(object sender, EventArgs e)
+        {
+            
         }
     }
 }
